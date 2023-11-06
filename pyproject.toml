@@ -16,7 +16,7 @@ koodousfinder = 'koodousfinder.console:run'
 
 
 [tool.poetry.dependencies]
-python = ">=3.7.2,<3.11"
+python = ">=3.7.2"
 requests = "^2.31.0"
 keyring = "^23.13.1"
 pydantic = "^1.10.9"
